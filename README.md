@@ -1,3 +1,2 @@
-# marIA
-
-Marketing IA
+# marIA - Marketing IA
+Coming Soon :)
